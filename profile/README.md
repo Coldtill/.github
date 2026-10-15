@@ -1,4 +1,4 @@
-# Coldtill
+# Self-hosted crypto payment gateway - ColdTill
 
 **Self-hosted crypto payments. 200+ coins on 35+ chains, straight to your own cold wallet.**
 
